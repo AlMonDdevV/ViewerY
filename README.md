@@ -20,4 +20,4 @@ Features
 !RUN THIS WITH   "python viewery.py" AND MAKE SURE YOU HAVE PYTHON INSTALLED!
 
 ## Preview
-![Preview Image](./swappy-20260416_191640)
+![Preview Image](./swappy-20260416_191640.png)
