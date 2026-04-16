@@ -1,6 +1,6 @@
 
 
-ViewerX is a lightweight terminal system information tool for Linux.
+ViewerY is a lightweight terminal system information tool for Linux.
 
 It displays basic hardware and system information in a clean ASCII layout.
 
@@ -13,3 +13,4 @@ Features
 - Kernel & OS info
 - Clean terminal layout
 - Lightweight and fast
+- and system info
