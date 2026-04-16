@@ -1,11 +1,12 @@
-## Instructions
+Instructions
 
 ViewerY is a lightweight terminal system information tool.
+you will need git installed heres how "sudo pacman -S git"
 
-### How to use
+How to use
 
 Clone the repository:
-```bash
+
 git clone https://github.com/AlMonDdevV/ViewerY.git
 and then do cd ViewerY
 then python viewery.py
