@@ -1,4 +1,4 @@
-
+GET THE AUR HERE:https://aur.archlinux.org/packages/viewery OR yay -S viewery
 
 ViewerY is a lightweight terminal system information tool for Linux.
 
